@@ -1,0 +1,43 @@
+package com.springdemo.annotations;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+
+//@Component("thatSillyCoach")		//explicit beanId
+@Component							//default beanId
+public class TennisCoach implements Coach {
+	
+	
+//	use @qualifier when multiple class implements interface --> Example - @Qualifier("happyFortuneService")	
+//	@Autowired
+	@Qualifier("randomFortuneService")
+	private FortuneService fortuneService;
+	
+	public TennisCoach() {}
+	
+////	Autowired using setter method
+//	@Autowired
+//	public void setFortuneService(FortuneService fortuneService) {
+//		this.fortuneService = fortuneService;
+//	}
+
+	
+//	Autowired using constructor
+//	@Autowired
+//	public TennisCoach(FortuneService theFortuneService) {
+//		fortuneService = theFortuneService;
+//	}
+
+	@Override
+	public String getDailyWorkout() {
+		return "sprint 10mtr 20 times";
+	}
+
+
+	@Override
+	public String getDailyFortune() {
+		return fortuneService.getFortune();
+	}
+
+}

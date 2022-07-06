@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Jul 05 18:18:11 IST 2022
+org.eclipse.jst.jee.server\:/binary\:/home/bhautik/eclipse-spring/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.3.8.jar=WEB-INF/lib/spring-web-5.3.8.jar
+org.eclipse.jst.jee.server\:/binary\:/home/bhautik/eclipse-spring/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.3.8-sources.jar=WEB-INF/lib/spring-web-5.3.8-sources.jar

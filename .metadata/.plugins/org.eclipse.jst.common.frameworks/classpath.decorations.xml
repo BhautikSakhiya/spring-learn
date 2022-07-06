@@ -1,0 +1,7 @@
+<classpath>
+  <container id="spring-mvc-demo!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="/home/bhautik/eclipse-spring/spring-mvc-demo/WebContent/WEB-INF/lib/spring-webmvc-5.3.8.jar">
+      <source-attachment-path>/spring-mvc-demo/WebContent/WEB-INF/lib/spring-webmvc-5.3.8.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

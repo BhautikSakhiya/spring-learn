@@ -1,0 +1,13 @@
+package com.springdemo.annotations;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class AnnotationDemoApp {
+
+	public static void main(String[] args) {
+		
+		//read config file
+		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+	}
+
+}

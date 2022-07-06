@@ -1,0 +1,5 @@
+package com.springmvcdemo.validation;
+
+public class CourseCodeConstraintValidator {
+
+}

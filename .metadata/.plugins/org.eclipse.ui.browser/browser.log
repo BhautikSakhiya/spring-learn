@@ -1,0 +1,40 @@
+
+Jul 05, 2022 11:40:57.250 NEW SESSION
+Jul 05, 2022 11:40:57.250 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 11:40:57.256 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 11:40:57.285 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 11:40:57.338 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 11:40:58.85 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 11:40:58.93 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 11:40:58.121 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 11:40:58.171 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 11:40:59.831 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Jul 05, 2022 15:17:30.519 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Jul 05, 2022 15:17:30.637 
+Jul 05, 2022 15:17:30.637 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+Jul 05, 2022 15:17:30.637 
+Jul 05, 2022 15:27:17.10 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 15:27:17.18 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 15:27:17.45 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 15:27:17.107 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 15:27:17.749 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 15:27:17.756 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 15:27:17.783 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 15:27:17.835 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 15:27:18.777 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Jul 05, 2022 16:20:43.922 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Jul 05, 2022 16:20:44.66 
+Jul 05, 2022 16:20:44.67 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+Jul 05, 2022 16:20:44.67 
+
+Jul 05, 2022 16:46:44.12 NEW SESSION
+Jul 05, 2022 16:46:44.12 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 16:46:44.18 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 16:46:44.45 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 16:46:44.97 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 16:46:44.737 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 16:46:44.744 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 16:46:44.770 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 16:46:44.823 ATTENTION: default value of option mesa_glthread overridden by environment.
+Jul 05, 2022 16:46:45.634 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Jul 05, 2022 19:10:48.525 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm

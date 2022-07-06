@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1656496303814" defaultVMConnector\="">\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\n        <vm id\="1656496303814" name\="jdk-11.0.15.1" path\="/home/bhautik/Downloads/jdk-11.0.15.1_linux-x64_bin/data/usr/lib/jvm/jdk-11"/>\n    </vmType>\n</vmSettings>\n
