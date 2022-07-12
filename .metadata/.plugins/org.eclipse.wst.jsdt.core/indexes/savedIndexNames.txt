@@ -1,7 +1,6 @@
 INDEX VERSION 1.4+/home/bhautik/eclipse-spring/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
 1476218096.index
 446694520.index
-3246518651.index
 2460244624.index
 557173393.index
 3124286540.index

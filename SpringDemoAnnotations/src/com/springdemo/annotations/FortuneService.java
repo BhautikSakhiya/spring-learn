@@ -1,4 +1,5 @@
-package com.springdemo.annotations;
+
+	package com.springdemo.annotations;
 
 
 public interface FortuneService {

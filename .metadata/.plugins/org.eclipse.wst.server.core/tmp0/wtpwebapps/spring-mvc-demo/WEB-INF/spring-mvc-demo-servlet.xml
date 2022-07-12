@@ -26,12 +26,9 @@
 
 
 
-	<bean id="messageSource" 
-      class="org.springframework.context.support.ResourceBundleMessageSource">
- 
-    <property name="basenames" value="resources/messages" />
- 
-</bean>
+	<bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource">
+    	<property name="basenames" value="resources/messages" />
+ 	</bean>
 
 </beans>
 

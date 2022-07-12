@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    
+    
+	<bean id="user1" class="com.learnInjection.withDependentMapObject.User">
+		<constructor-arg value="1"></constructor-arg>
+		<constructor-arg value="jay"></constructor-arg>
+		<constructor-arg value="jay@gmail.com"></constructor-arg>
+	</bean>
+	<bean id="user2" class="com.learnInjection.withDependentMapObject.User">
+		<constructor-arg value="2"></constructor-arg>
+		<constructor-arg value="john"></constructor-arg>
+		<constructor-arg value="john@gmail.com"></constructor-arg>
+	</bean>
+	
+	<bean id="answer1" class="com.learnInjection.withDependentMapObject.Answer">
+		<constructor-arg value="11"></constructor-arg>
+		<constructor-arg value="java is a Programming Language"></constructor-arg>
+		<constructor-arg value="12/1/2000"></constructor-arg>
+	</bean>
+	
+	<bean id="answer2" class="com.learnInjection.withDependentMapObject.Answer">
+		<constructor-arg value="22"></constructor-arg>
+		<constructor-arg value="java is a plateform"></constructor-arg>
+		<constructor-arg value="22/10/2002"></constructor-arg>
+	</bean>
+	
+	<bean id="question" class="com.learnInjection.withDependentMapObject.Question">
+		<constructor-arg value="1"></constructor-arg>
+		<constructor-arg value="what is java?"></constructor-arg>
+		<constructor-arg>
+			<map>
+				<entry key-ref="answer1" value-ref="user1"></entry>
+				<entry key-ref="answer2" value-ref="user2"></entry>
+			</map>
+		</constructor-arg>
+	</bean>
+</beans>

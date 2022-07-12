@@ -1,5 +1,6 @@
 package com.springdemo.annotations;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 
 public class SwimCoach implements Coach {
@@ -12,6 +13,7 @@ public class SwimCoach implements Coach {
 	@Value("${foo.team}")
 	private String team;
 
+	@Autowired
 	public SwimCoach(FortuneService theFortuneService) {
 		fortuneService = theFortuneService;
 	}

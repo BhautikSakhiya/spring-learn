@@ -1,7 +1,13 @@
 <classpath>
   <container id="spring-mvc-demo!org.eclipse.jst.j2ee.internal.web.container">
     <entry id="/home/bhautik/eclipse-spring/spring-mvc-demo/WebContent/WEB-INF/lib/spring-webmvc-5.3.8.jar">
-      <source-attachment-path>/spring-mvc-demo/WebContent/WEB-INF/lib/spring-webmvc-5.3.8.jar</source-attachment-path>
+      <source-attachment-path>/tmp/.org.sf.feeling.decompiler1657276427861/source/spring-webmvc-5.3.8-sources.jar</source-attachment-path>
+    </entry>
+    <entry id="/home/bhautik/eclipse-spring/spring-mvc-demo/WebContent/WEB-INF/lib/jakarta.validation-api-2.0.2.jar">
+      <source-attachment-path>/tmp/.org.sf.feeling.decompiler1657513274055/source/jakarta.validation-api-2.0.2-sources.jar</source-attachment-path>
+    </entry>
+    <entry id="/home/bhautik/eclipse-spring/spring-mvc-demo/WebContent/WEB-INF/lib/hibernate-validator-6.2.3.Final.jar">
+      <source-attachment-path>/tmp/.org.sf.feeling.decompiler1657513274055/source/hibernate-validator-6.2.3.Final-sources.jar</source-attachment-path>
     </entry>
   </container>
 </classpath>

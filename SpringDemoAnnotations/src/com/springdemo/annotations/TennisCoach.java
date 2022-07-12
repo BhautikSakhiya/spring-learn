@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 //@Component("thatSillyCoach")		//explicit beanId
-@Component							//default beanId
+@Component							//default beanId --> generate id same name as class name, only first letter is small
 public class TennisCoach implements Coach {
 	
 	
